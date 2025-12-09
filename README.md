@@ -190,7 +190,7 @@ Verificação das Restrições:
 
 ## Licença
 
-Copyright © 2024 Beatriz Nahas, João Plinta, Rafael Alves  
+Copyright © 2025 Beatriz Nahas, João Plinta, Rafael Alves  
 Todos os direitos reservados.
 
 Este código é propriedade privada. Nenhuma parte deste software pode ser reproduzida, distribuída ou utilizada sem permissão prévia por escrito dos autores.
